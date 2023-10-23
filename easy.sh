@@ -8,7 +8,7 @@ class PyShell(cmd.Cmd()):
         if len(args)>1:
             print('exit:too many arguments',flie=sys.stderr)
             return
-        if len(args)==0 or arg[0]=='':
+        if len(args)==0 or args[0]=='':
             exit(0)
         try:
             exit(int(args[0]))
