@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Coded with Vscode
 # idea from https://zhuanlan.zhihu.com/p/66687467
-# @Time    : 2023-10-23 21：08"""
+# @Time    : 2023-10-23 21：08
 
 
 import cmd
